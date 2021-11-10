@@ -1,3 +1,7 @@
+This was forked to get the same exact combination of `@embroider/macros` as in the phorest-desktop-ember app for https://github.com/phorest/embroider-macros-min-repro . Once that experiment is over, we can delete this.
+
+------------------
+
 ember-element-helper
 ==============================================================================
 
